@@ -1,6 +1,6 @@
-# syntastic-local-eslint.vim
+# syntastic-local-tslint.vim
 
-Prefer local repo install of eslint over global install with syntastic
+Prefer local repo install of tslint over global install with syntastic
 
 Installation Instructions
 -------------------------
@@ -8,7 +8,7 @@ Installation Instructions
 Using [vim plugged](https://github.com/junegunn/vim-plug) you just need to add:
 
 ```
-Plug 'mtscout6/syntastic-local-eslint.vim'
+Plug 'alessioalex/syntastic-local-tslint.vim'
 ```
 
 Inspired By
